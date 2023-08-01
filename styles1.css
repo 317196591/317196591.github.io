@@ -1,0 +1,78 @@
+@media (min-width:0px) and (max-width:750px){
+    *{
+        font-family: "Sofia";
+        background-color: white;
+        font-size:15px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .mifoto{
+        height:15%;
+        width:15%;
+    }
+    .logodif{
+        height:20%;
+        width:20%;
+    }
+    .logoenp2{
+        height:10%;
+        width:10%;
+    }
+    .logofi{
+        height:10%;
+        width:10%;
+    }
+}
+@media (min-width:751px) and (max-width:999px){
+    *{
+        font-family: "Sofia";
+        background-color: gray;
+        font-size: 20px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .mifoto{
+        height:20%;
+        width:20%;
+    }
+    .logodif{
+        height:30%;
+        width:30%;
+    }
+    .logoenp2{
+        height:20%;
+        width:20%;
+    }
+    .logofi{
+        height:20%;
+        width:20%;
+    }
+}
+@media (min-width:1000px){
+    *{
+        font-family: "Sofia";
+        background-color: yellow;
+        font-size: 25px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .mifoto{
+        height:25%;
+        width:25%;
+    }
+    .logodif{
+        height:40%;
+        width:40%;
+    }
+    .logoenp2{
+        height:30%;
+        width:30%;
+    }
+    .logofi{
+        height:30%;
+        width:30%;
+    }
+}

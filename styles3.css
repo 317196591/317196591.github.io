@@ -1,0 +1,93 @@
+@media (min-width:0px) and (max-width:750px){
+    *{
+        font-family: "Sofia";
+        background-color: white;
+        font-size:15px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .basilica{
+        height: 200px;
+    }
+    .trajineras{
+        height: 200px;
+    }
+    .olmedo{
+        height: 200px;
+    }
+    .coyoacan{
+        height: 200px;
+    }
+    .sanangel{
+        height: 200px;
+    }
+    .chapultepec{
+        height:200px;
+    }
+    .zocalo{
+        height:200px;
+    }
+}
+@media (min-width:751px) and (max-width:999px){
+    *{
+        font-family: "Sofia";
+        background-color: gray;
+        font-size: 20px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .basilica{
+        height: 300px;
+    }
+    .trajineras{
+        height: 300px;
+    }
+    .olmedo{ 
+        height: 300px;
+    }
+    .coyoacan{
+        height: 300px;
+    }
+    .sanangel{
+        height: 300px;
+    }
+    .chapultepec{
+        height: 300px;
+    }
+    .zocalo{
+        height: 300px;
+    }
+}
+@media (min-width:1000px){
+    *{
+        font-family: "Sofia";
+        background-color: yellow;
+        font-size: 25px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .basilica{
+        height: 400px;
+    }
+    .trajineras{
+        height: 400px;
+    }
+    .olmedo{
+        height: 400px;
+    }
+    .coyoacan{
+        height: 400px;
+    }
+    .sanangel{
+        height: 400px;
+    }
+    .chapultepec{
+        height: 400px;
+    }
+    .zocalo{
+        height:400px;
+    }
+}

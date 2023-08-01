@@ -1,0 +1,51 @@
+@media (min-width:0px) and (max-width:750px){
+    *{
+        font-family: "Sofia";
+        background-color: white;
+        font-size:15px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .enviar{
+        background-color: gray;
+    }
+    .facebook{
+        width:10px;
+        height:10px;
+    }
+}
+@media (min-width:751px) and (max-width:999px){
+    *{
+        font-family: "Sofia";
+        background-color: gray;
+        font-size: 20px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .enviar{
+        background-color: white;
+    }
+    .facebook{
+        width:20px;
+        height:20px;
+    }
+}
+@media (min-width:1000px){
+    *{
+        font-family: "Sofia";
+        background-color: yellow;
+        font-size: 25px;
+    }
+    .cabecera{
+        background-color: aqua;
+    }
+    .enviar{
+        background-color: gray;
+    }
+    .facebook{
+        width:30px;
+        height:30px;
+    }
+}
